@@ -1,0 +1,20 @@
+{
+  "name": "@shaokaodashi/proxy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "my-proxy": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "express": "^4.17.3",
+    "http-proxy-middleware": "^2.0.3",
+    "inquirer": "^8.2.0"
+  }
+}
