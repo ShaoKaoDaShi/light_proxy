@@ -5,4 +5,5 @@
 
 ## 使用
 >my-proxy init
+
 ![image](https://user-images.githubusercontent.com/51286514/155504369-a45b7310-b889-4cd5-ba3c-e96e3a77053b.png)
